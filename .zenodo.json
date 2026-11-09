@@ -1,0 +1,10 @@
+{
+  "title": "Split Primes and the Exponent of Imaginary Quadratic Class Groups: paper, certification script and data",
+  "upload_type": "software",
+  "description": "LaTeX source and PDF of the paper Split Primes and the Exponent of Imaginary Quadratic Class Groups, with the ball-arithmetic certification script, the sieve over 10^6 < |d| <= 2^40, the enumeration of reduced forms for |D| <= 10^6 and the list of the 101 discriminants of exponent at most two. The results are conditional on the zero-free half-planes Re s > 7/8 and Re s > 11/12 claimed in unrefereed OpenAI preprints.",
+  "creators": [
+    {"name": "Bhattacharjee, Deep", "orcid": "0000-0003-0466-750X"}
+  ],
+  "keywords": ["imaginary quadratic fields", "class group exponent", "split primes", "idoneal numbers", "zero-free half-plane"],
+  "license": {"id": "MIT"}
+}
